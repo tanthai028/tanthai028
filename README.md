@@ -12,7 +12,7 @@ I graduated from the University of South Florida with a B.S. in Computer Science
 A serverless bot that watches the Raymond James job board and posts new openings to Discord twice a week, with a searchable report on GitHub Pages. Python and GitHub Actions, running since June 2026 for $0.
 [Live report](https://tanthai028.github.io/RJTracker/)
 
-**[tetrain](https://github.com/tanthai028/tetrain)**
+**[TETRAIN](https://github.com/tanthai028/tetrain)**
 A Tetris piece trainer that quizzes you more on the pieces you keep mixing up. Plain JavaScript with no framework or build step.
 [Play it](https://tetrain.vercel.app)
 
