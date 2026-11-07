@@ -17,7 +17,7 @@ A Tetris piece trainer that quizzes you more on the pieces you keep mixing up. P
 [Play it](https://tetrain.vercel.app)
 
 **[TubeScript](https://github.com/tanthai028/yt-transcriber)**
-A Chrome extension and iPhone bookmarklet for searching and copying YouTube transcripts with clickable timestamps. TypeScript and React, with 57 unit tests against real YouTube responses.
+A Chrome extension and iPhone bookmarklet for searching and copying YouTube transcripts with clickable timestamps. TypeScript and React, with 69 unit tests against real YouTube responses.
 
 **[YTBookmarks](https://github.com/tanthai028/YTBookmark)**
 A Chrome extension that pins your own labeled bookmarks on YouTube's progress bar.
