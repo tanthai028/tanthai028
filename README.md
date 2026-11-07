@@ -1,48 +1,43 @@
-
 # Hi, I'm Tan Thai
 
-### Software Engineer | Backend • Automation • Developer Productivity
+Software engineer in Tampa Bay. I like building backend services, internal tools, and automation that saves people time.
 
-I'm a Computer Science graduate from the University of South Florida with software engineering internship experience at JPMorgan Chase and GE Aerospace.
+I graduated from the University of South Florida with a B.S. in Computer Science in 2024 and interned at JPMorgan Chase and GE Aerospace. I'm looking for entry-level backend, internal tools, platform, or automation roles in Florida or remote.
 
-I enjoy building software that solves practical problems, automates repetitive work, and improves developer productivity.
+**Portfolio:** [tan-portfolio-taupe.vercel.app](https://tan-portfolio-taupe.vercel.app)
 
-**[View My Portfolio](https://tan-portfolio-taupe.vercel.app/)**
+## Projects
 
----
+**[RJ Job Tracker](https://github.com/tanthai028/RJTracker)**
+A serverless bot that watches the Raymond James job board and posts new openings to Discord twice a week, with a searchable report on GitHub Pages. Python and GitHub Actions, running since June 2026 for $0.
+[Live report](https://tanthai028.github.io/RJTracker/)
 
-## About Me
+**[tetrain](https://github.com/tanthai028/tetrain)**
+A Tetris piece trainer that quizzes you more on the pieces you keep mixing up. Plain JavaScript with no framework or build step.
+[Play it](https://tetrain.vercel.app)
 
-- 🎓 B.S. in Computer Science — University of South Florida
-- 💻 Previous software engineering experience at JPMorgan Chase and GE Aerospace
-- 🛠️ Interested in backend development, internal tools, automation, and platform engineering
-- 🚀 Currently building projects and improving my software engineering skills
+**[yt-transcriber](https://github.com/tanthai028/yt-transcriber)**
+A Chrome extension and iPhone bookmarklet for searching and copying YouTube transcripts with clickable timestamps. TypeScript and React, with 57 unit tests against real YouTube responses.
 
-## Tech Stack
+**[YTBookmarks](https://github.com/tanthai028/YTBookmark)**
+A Chrome extension that pins your own labeled bookmarks on YouTube's progress bar.
+[Chrome Web Store](https://chromewebstore.google.com/detail/ytbookmarks/jkiapphfienejigejenmajblkimmclcl)
 
-**Languages:** Python, TypeScript, JavaScript, C#
+**Wayfarer**
+A mobile study app that works like a scrolling feed, with spaced reviews and shared decks on Supabase.
+[Try it](https://cozyquest-nine.vercel.app)
 
-**Backend:** FastAPI, SQL, SQLite
+More, with screenshots, on my [portfolio](https://tan-portfolio-taupe.vercel.app/#work).
 
-**Frontend:** React, HTML, CSS
+## Tech I use
 
-**Tools:** Git, GitHub, Jenkins, AWS
+- **Languages:** Python, SQL, TypeScript, JavaScript, C#
+- **Backend and data:** FastAPI, Node.js, .NET, BigQuery, SQLite
+- **Cloud and CI/CD:** AWS, GCP, Jenkins, GitHub Actions, Terraform
+- **Frontend and tools:** React, Electron, Tailwind CSS, Chrome extensions
 
-## Featured Projects
+## Contact
 
-Check out my [portfolio](https://tan-portfolio-taupe.vercel.app/) for my projects, demos, and technical work.
-
-<!-- Add your strongest projects below -->
-
-### Project Name
-Brief description of what the project does and the problem it solves.
-
-[Repository](YOUR_REPOSITORY_URL) | [Live Demo](YOUR_DEMO_URL)
-
----
-
-## Connect With Me
-
-- [Portfolio](https://tan-portfolio-taupe.vercel.app/)
-- [LinkedIn](YOUR_LINKEDIN_URL)
-- [GitHub](YOUR_GITHUB_URL)
+- Email: [tanthai028.jobs@gmail.com](mailto:tanthai028.jobs@gmail.com)
+- LinkedIn: [linkedin.com/in/tanthai028](https://www.linkedin.com/in/tanthai028)
+- Portfolio: [tan-portfolio-taupe.vercel.app](https://tan-portfolio-taupe.vercel.app)
