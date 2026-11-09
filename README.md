@@ -23,9 +23,12 @@ A Chrome extension and iPhone bookmarklet for searching and copying YouTube tran
 A Chrome extension that pins your own labeled bookmarks on YouTube's progress bar.
 [Chrome Web Store](https://chromewebstore.google.com/detail/ytbookmarks/jkiapphfienejigejenmajblkimmclcl)
 
-**Trailcards**
+**[Trailcards](https://github.com/tanthai028/Trailcards)**
 A mobile study app that works like a scrolling feed, with spaced reviews and shared decks on Supabase.
 [Try it](https://trailcards.vercel.app)
+
+**[Resumatch](https://github.com/tanthai028/Resumatch)**
+A Chrome extension that reads a job posting and tells me which of my résumés to send. JavaScript, Manifest V3.
 
 More, with screenshots, on my [portfolio](https://tanhthai.com/#work).
 
