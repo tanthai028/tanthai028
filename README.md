@@ -8,20 +8,13 @@ I graduated from the University of South Florida with a B.S. in Computer Science
 
 ## Projects
 
-**[RJ Job Tracker](https://github.com/tanthai028/RJTracker)**
+**[Job Board Monitor](https://github.com/tanthai028/RJTracker)**
 A serverless bot that watches the Raymond James job board and posts new openings to Discord twice a week, with a searchable report on GitHub Pages. Python and GitHub Actions, running since June 2026 for $0.
 [Live report](https://tanthai028.github.io/RJTracker/)
 
 **[TETRAIN](https://github.com/tanthai028/tetrain)**
 A Tetris piece trainer that quizzes you more on the pieces you keep mixing up. Plain JavaScript with no framework or build step.
 [Play it](https://tetrain.vercel.app)
-
-**[TubeScript](https://github.com/tanthai028/yt-transcriber)**
-A Chrome extension and iPhone bookmarklet for searching and copying YouTube transcripts with clickable timestamps. TypeScript and React, with 69 unit tests against real YouTube responses.
-
-**[YTBookmarks](https://github.com/tanthai028/YTBookmark)**
-A Chrome extension that pins your own labeled bookmarks on YouTube's progress bar.
-[Chrome Web Store](https://chromewebstore.google.com/detail/ytbookmarks/jkiapphfienejigejenmajblkimmclcl)
 
 **[Trailcards](https://github.com/tanthai028/Trailcards)**
 A mobile study app that works like a scrolling feed, with spaced reviews and shared decks on Supabase.
@@ -30,7 +23,12 @@ A mobile study app that works like a scrolling feed, with spaced reviews and sha
 **[Resumatch](https://github.com/tanthai028/Resumatch)**
 A Chrome extension that reads a job posting and tells me which of my résumés to send. JavaScript, Manifest V3.
 
-More, with screenshots, on my [portfolio](https://tanhthai.com/#work).
+**[TubeScript](https://github.com/tanthai028/yt-transcriber)**
+A Chrome extension and iPhone bookmarklet for searching and copying YouTube transcripts with clickable timestamps. TypeScript and React, with 69 unit tests against real YouTube responses.
+
+**[YTBookmarks](https://github.com/tanthai028/YTBookmark)**
+A Chrome extension that pins your own labeled bookmarks on YouTube's progress bar.
+[Chrome Web Store](https://chromewebstore.google.com/detail/ytbookmarks/jkiapphfienejigejenmajblkimmclcl)
 
 ## Tech I use
 
@@ -41,6 +39,5 @@ More, with screenshots, on my [portfolio](https://tanhthai.com/#work).
 
 ## Contact
 
-- Email: [tanthai028.jobs@gmail.com](mailto:tanthai028.jobs@gmail.com)
+- Email: [tanthai028@gmail.com](mailto:tanthai028@gmail.com)
 - LinkedIn: [linkedin.com/in/tanthai028](https://www.linkedin.com/in/tanthai028)
-- Portfolio: [tanhthai.com](https://tanhthai.com)
