@@ -8,7 +8,7 @@ I graduated from the University of South Florida with a B.S. in Computer Science
 
 ## Projects
 
-**[RJ Job Tracker](https://github.com/tanthai028/RJTracker)**
+**[Careers Page Monitor](https://github.com/tanthai028/RJTracker)**
 A serverless bot that watches the Raymond James job board and posts new openings to Discord twice a week, with a searchable report on GitHub Pages. Python and GitHub Actions, running since June 2026 for $0.
 [Live report](https://tanthai028.github.io/RJTracker/)
 
