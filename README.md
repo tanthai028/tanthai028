@@ -4,7 +4,7 @@ Software engineer in Tampa Bay. I like building backend services, internal tools
 
 I graduated from the University of South Florida with a B.S. in Computer Science in 2024 and interned at JPMorgan Chase and GE Aerospace. I'm looking for entry-level backend, internal tools, platform, or automation roles in Florida or remote.
 
-**Portfolio:** [tan-portfolio-taupe.vercel.app](https://tan-portfolio-taupe.vercel.app)
+**Portfolio:** [tanhthai.com](https://tanhthai.com)
 
 ## Projects
 
@@ -25,9 +25,9 @@ A Chrome extension that pins your own labeled bookmarks on YouTube's progress ba
 
 **Trailcards**
 A mobile study app that works like a scrolling feed, with spaced reviews and shared decks on Supabase.
-[Try it](https://cozyquest-nine.vercel.app)
+[Try it](https://trailcards.vercel.app)
 
-More, with screenshots, on my [portfolio](https://tan-portfolio-taupe.vercel.app/#work).
+More, with screenshots, on my [portfolio](https://tanhthai.com/#work).
 
 ## Tech I use
 
@@ -40,4 +40,4 @@ More, with screenshots, on my [portfolio](https://tan-portfolio-taupe.vercel.app
 
 - Email: [tanthai028.jobs@gmail.com](mailto:tanthai028.jobs@gmail.com)
 - LinkedIn: [linkedin.com/in/tanthai028](https://www.linkedin.com/in/tanthai028)
-- Portfolio: [tan-portfolio-taupe.vercel.app](https://tan-portfolio-taupe.vercel.app)
+- Portfolio: [tanhthai.com](https://tanhthai.com)
